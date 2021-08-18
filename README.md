@@ -1,5 +1,5 @@
 # DS-tasks
-Tasks 1 and 2 for DIgismoothie interview
+Tasks 1 and 2 for Digismoothie interview
 ## Part 1 - Try to repair Candy Rack
 Simple JavaScript function located in the Part 1 folder.
 **Problem**: product variant selected is not the product variant displayed in the Candy Rack upsell popup
