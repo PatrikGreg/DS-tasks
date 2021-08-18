@@ -1,10 +1,18 @@
 import React from 'react';
+import { Router } from '@reach/router';
+import ProductDetail from "./Components/ProductDetail/ProductDetail"
+import {GlobalStyle, Wrapper} from './App.styles'
 
 function App() {
   return (
-    <div className="App">
-      Hello
-    </div>
+    <>
+    <GlobalStyle />
+        <Wrapper>
+          <Router>
+             <ProductDetail path="/"></ProductDetail>
+          </Router>
+        </Wrapper>
+    </>
   );
 }
 
