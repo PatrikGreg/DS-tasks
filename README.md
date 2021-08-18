@@ -15,7 +15,7 @@ Simple React app located in the Part 2 folder:
 **Solution**: implemented functionality using React, TypeScript, Axios and styled components
 To test it out:
  1. Go to folder "Part 2"
- 2. From tere go to folder "candyrack"
+ 2. From there go to folder "candyrack"
  3. Run `npm install`
  4. Run `npm start`
  5. Go to `localhost:3000` in your browser
